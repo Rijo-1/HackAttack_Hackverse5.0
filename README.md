@@ -155,29 +155,9 @@ AI helps us in learn more trading statergies
 
 Our innovative approach has achieved:
 - **50%** reduction in trading carbon footprint
-- **1000+** Green NFTs issued
-- **10,000+** environmentally conscious traders
-- **Community-driven** sustainable trading practices
+- Carbon Footprint analysis gives user to make more Green trades
 
-## 📈 Development Roadmap
 
-### Phase 1 (Completed) ✅
-- [x] Team Trading Rooms
-- [x] Environmental Impact Tracking
-- [x] Tax Calculator Integration
-- [x] AI Analytics v1.0
-
-### Phase 2 (In Progress) 🚧
-- [ ] Mobile App Development
-- [ ] Advanced Team Features
-- [ ] Enhanced AI Capabilities
-- [ ] Global Exchange Integration
-
-### Phase 3 (Planned) 📋
-- [ ] DeFi Integration
-- [ ] Cross-chain Support
-- [ ] Advanced Analytics
-- [ ] Institutional Features
 
 ## 👥 Contributing
 
@@ -198,12 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Our Community** for continuous feedback
 - **Early Adopters** for believing in our vision
 
-## 📞 Connect With Us
 
-- 🌐 Website: [gyandcx.com](https://gyandcx.com)
-- 📧 Email: support@gyandcx.com
-- 🐦 Twitter: [@GyanDCX](https://twitter.com/GyanDCX)
-- 💬 Discord: [Join our community](https://discord.gg/gyandcx)
 
 ---
 
