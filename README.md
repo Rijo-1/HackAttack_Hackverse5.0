@@ -40,7 +40,7 @@
 - **Smart Reports**: Comprehensive tax documentation
 - **Trading Optimization**: Tax-efficient trading suggestions
 
-### 🤖 AI-Powered Analytics
+### 🤖 Performance Analytics
 ![Analytics Dashboard](./images/summary.png)
 - **Personal Insights**: AI-driven trading analysis
 - **Pattern Recognition**: Identify your trading patterns
@@ -113,9 +113,9 @@ npm run build
 Experience our intuitive trading interface with real-time market data and team insights.
 
 
-### Performance Analytics
-![Performance Analytics ](.images/chart.png)
-Track your progress with comprehensive analytics and AI-powered insights.
+### Real Time Insights
+![Performance Analytics ](./images/chart.png)
+Provides real time data on BTC insights.
 
 ### User Dashboard
 ![User DashBoard 1](./images/userdashboard.png)
@@ -210,5 +210,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <img src="./public/assets/images/footer-banner.png" alt="GyannDCX Footer" width="100%">
   <br>
-  Made with ❤️ by team Hack Attack for a sustainable trading future
+  Made with ❤️ by Team Hack Attack for a sustainable trading future
 </p>
