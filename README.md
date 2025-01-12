@@ -158,6 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤ for a sustainable trading future</p>
-
-[Insert Footer Banner Image]
+<p align="center">Made with ❤ for a sustainable trading future by Team HackAttack</p>
