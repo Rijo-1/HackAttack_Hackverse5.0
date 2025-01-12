@@ -27,7 +27,7 @@
 - **Team Chat**: Discuss trades and strategies instantly
 
 ### 🌍 Environmental Impact Tracking
-![Environmental Dashboard](./public/assets/images/environmental-dashboard.png)
+![Environmental Dashboard](./images/tradeanalysis.png)
 - **Trade Impact Calculator**: Measure your trading footprint
 - **Green NFT Rewards**: Earn NFTs for sustainable trading
 - **Impact Leaderboard**: Compete for greenest trader
@@ -158,10 +158,6 @@ Our innovative approach has achieved:
 - **1000+** Green NFTs issued
 - **10,000+** environmentally conscious traders
 - **Community-driven** sustainable trading practices
-
-## 🏆 Achievements
-![Achievements](./public/assets/images/achievements.png)
-Earn rewards and get acheivement in GyaanDCX
 
 ## 📈 Development Roadmap
 
