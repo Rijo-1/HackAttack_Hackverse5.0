@@ -1,6 +1,6 @@
 # ज्ञानDCX - Learn Together, Trade Better, Impact Greener 🌱
 
-![GyannDCX Banner](./public/assets/images/banner.png)
+![GyannDCX Banner](./images/banner.png)
 
 [![GitHub license](https://img.shields.io/github/license/yourusername/GyannDCX)](https://github.com/yourusername/GyannDCX/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/GyannDCX)](https://github.com/yourusername/GyannDCX/stargazers)
@@ -20,7 +20,7 @@
 ## 🌟 Core Features
 
 ### 🤝 Team Trading Rooms
-![Team Trading](./public/assets/images/team-trading.png)
+![Team Trading](./images/collab.png)
 - **Collaborative Environment**: Trade together in real-time
 - **Live Performance Tracking**: See how your team performs
 - **Strategy Sharing**: Learn from experienced team members
@@ -34,14 +34,14 @@
 - **Sustainability Metrics**: Track your green trading journey
 
 ### 💰 Smart Tax Management
-![Tax Dashboard](./public/assets/images/tax-dashboard.png)
+![Tax Dashboard](./images/tax.png)
 - **Automated Calculations**: Real-time P&L tax computation
 - **Tax Liability Tracker**: Stay ahead of your obligations
 - **Smart Reports**: Comprehensive tax documentation
 - **Trading Optimization**: Tax-efficient trading suggestions
 
 ### 🤖 AI-Powered Analytics
-![Analytics Dashboard](./public/assets/images/analytics-dashboard.png)
+![Analytics Dashboard](./images/summary.png)
 - **Personal Insights**: AI-driven trading analysis
 - **Pattern Recognition**: Identify your trading patterns
 - **Strategy Recommendations**: Get AI-powered suggestions
@@ -109,17 +109,23 @@ npm run build
 ## 📱 User Interface Showcase
 
 ### Trading Dashboard
-![Trading Interface](./public/assets/images/trading-dashboard.png)
+![Trading Interface](./images/dash_trade.png)
 Experience our intuitive trading interface with real-time market data and team insights.
 
 
 ### Performance Analytics
-![Performance Analytics](./public/assets/images/performance-analytics.png)
+![Performance Analytics ](.images/chart.png)
 Track your progress with comprehensive analytics and AI-powered insights.
 
 ### User Dashboard
-![Environmental Metrics](./public/assets/images/environmental-metrics.png)
+![User DashBoard 1](./images/userdashboard.png)
+![User Dashboard 2](./images/userdash2.png)
 Monitor and improve your trading's using AI curated user Dashboard.
+
+### AI Chat 
+![AI Chat](./images/chat.png)
+AI helps us in learn more trading statergies
+
 
 ## 🛠️ Technology Stack
 
