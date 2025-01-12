@@ -161,15 +161,10 @@ Our innovative approach has achieved:
 
 ## 👥 Contributing
 
-We welcome contributions! See our [Contributing Guidelines](CONTRIBUTING.md) for:
-- Code of Conduct
-- Development Process
-- Pull Request Protocol
-- Bug Report Template
+We welcome contributions!
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 
