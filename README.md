@@ -15,7 +15,7 @@
 - **No awareness** of trading's environmental impact
 - **Complex tax calculations** burden traders
 
-![Problem Solution](./public/assets/images/problem-solution.png)
+
 
 ## 🌟 Core Features
 
@@ -112,17 +112,14 @@ npm run build
 ![Trading Interface](./public/assets/images/trading-dashboard.png)
 Experience our intuitive trading interface with real-time market data and team insights.
 
-### Team Collaboration
-![Team Collaboration](./public/assets/images/team-collaboration.png)
-Work together, share strategies, and learn from your team's experience.
 
 ### Performance Analytics
 ![Performance Analytics](./public/assets/images/performance-analytics.png)
 Track your progress with comprehensive analytics and AI-powered insights.
 
-### Environmental Impact
+### User Dashboard
 ![Environmental Metrics](./public/assets/images/environmental-metrics.png)
-Monitor and improve your trading's environmental impact.
+Monitor and improve your trading's using AI curated user Dashboard.
 
 ## 🛠️ Technology Stack
 
@@ -131,20 +128,13 @@ Monitor and improve your trading's environmental impact.
 - **Vite** for blazing fast builds
 - **TailwindCSS** for styling
 - **Socket.io-client** for real-time features
-- **Chart.js** for advanced charting
+
 
 ### Backend
 - **Node.js** with Express
 - **Supabase** for database and auth
 - **Socket.io** for real-time communication
-- **Groq** for AI analytics
 - **Binance API** for market data
-
-### DevOps
-- **GitHub Actions** for CI/CD
-- **Docker** for containerization
-- **Vercel** for deployment
-
 
 
 ## 🔒 Security Features
@@ -165,10 +155,7 @@ Our innovative approach has achieved:
 
 ## 🏆 Achievements
 ![Achievements](./public/assets/images/achievements.png)
-
-- **Winner**: Sustainable Trading Hackathon 2024
-- **Featured**: CryptoDaily Innovation Spotlight
-- **Recognition**: Environmental Trading Association
+Earn rewards and get acheivement in GyaanDCX
 
 ## 📈 Development Roadmap
 
